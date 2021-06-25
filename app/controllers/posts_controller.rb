@@ -1,7 +1,6 @@
 class PostsController < ApplicationController
 
-    def home
-        
+    def home_del
         
     end
     

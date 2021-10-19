@@ -4,5 +4,14 @@ class PostsController < ApplicationController
         
         
     end
+    def clas
+        
+    end
+    
+    def less
+        
+    end
+    
+    
     
 end
